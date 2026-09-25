@@ -1,0 +1,43 @@
+{
+  "agent": "nature-biodiversity-investment-agent",
+  "version": "0.1.0",
+  "note": "Deterministic arithmetic helpers. External evidence, comparability, causality and investment conclusions require analyst review.",
+  "operations": [
+    {
+      "operation": "npv",
+      "description": "Periodic NPV; cashflows[0] is time zero."
+    },
+    {
+      "operation": "dscr",
+      "description": "Debt-service coverage ratio."
+    },
+    {
+      "operation": "scale",
+      "description": "Explicit arithmetic unit conversion."
+    },
+    {
+      "operation": "holding_period_return",
+      "description": "Holding-period return from price, income, funding and transaction costs."
+    },
+    {
+      "operation": "exposure_coverage",
+      "description": "Located, screened, unassessed and high-dependency exposure shares."
+    },
+    {
+      "operation": "additional_outcome",
+      "description": "Observed less counterfactual outcome times supplied attribution share."
+    },
+    {
+      "operation": "nature_cashflow_stress",
+      "description": "Scenario bridge from nature exposure to revenue and cash-flow effects."
+    },
+    {
+      "operation": "cost_per_outcome",
+      "description": "Eligible cost per verified incremental outcome."
+    },
+    {
+      "operation": "conditional_project_revenue",
+      "description": "Contract-conditioned nature-project revenue after specified costs."
+    }
+  ]
+}
