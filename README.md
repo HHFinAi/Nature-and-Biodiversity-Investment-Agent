@@ -1,5 +1,7 @@
 # Nature and Biodiversity Investment Agent
 
+[![Validate research workflow](https://github.com/HHFinAi/Nature-and-Biodiversity-Investment-Agent/actions/workflows/validate.yml/badge.svg?branch=main)](https://github.com/HHFinAi/Nature-and-Biodiversity-Investment-Agent/actions/workflows/validate.yml)
+
 **Institutional-quality buy-side research, designed to support tradable investment decisions through a traceable, auditable workflow.**
 
 Connects location-specific ecosystem dependencies, measured outcomes, rights and financial transmission without inventing a universal biodiversity score or assuming tradability. Built by **HHFinAi** for investment analysts, fixed-income/equity specialists, portfolio managers and investment committees.
