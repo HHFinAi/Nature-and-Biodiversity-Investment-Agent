@@ -1,0 +1,50 @@
+{
+  "register_as_of": "2026-09-24",
+  "date_precision_note": "Month-only editions use day 01 as metadata normalization, not an exact publication or legal application date.",
+  "standards": [
+    {
+      "id": "TNFD-LEAP",
+      "title": "TNFD LEAP approach",
+      "url": "https://tnfd.global/publication/additional-guidance-on-assessment-of-nature-related-issues-the-leap-approach/",
+      "version": "v1.1, October 2023; web page updated June 2026",
+      "source_date": "2023-10-01",
+      "checked_on": "2026-09-24",
+      "status": "VOLUNTARY_GUIDANCE",
+      "can_apply_as_current_rule": false,
+      "interpretation": "Reference methodology, not legal advice, certification, or evidence of issuer compliance. Verify applicability and the underlying text for each research run."
+    },
+    {
+      "id": "TNFD-FI",
+      "title": "TNFD financial-institution guidance",
+      "url": "https://tnfd.global/publication/additional-disclosure-guidance-for-financial-institutions/",
+      "version": "v2.0, June 2024; web page updated November 2025",
+      "source_date": "2024-06-01",
+      "checked_on": "2026-09-24",
+      "status": "VOLUNTARY_GUIDANCE",
+      "can_apply_as_current_rule": false,
+      "interpretation": "Reference methodology, not legal advice, certification, or evidence of issuer compliance. Verify applicability and the underlying text for each research run."
+    },
+    {
+      "id": "IFC-BIO",
+      "title": "IFC Biodiversity Finance Reference Guide",
+      "url": "https://www.ifc.org/en/insights-reports/2022/biodiversity-finance-reference-guide",
+      "version": "updated May 2023",
+      "source_date": "2023-05-01",
+      "checked_on": "2026-09-24",
+      "status": "VOLUNTARY_GUIDANCE",
+      "can_apply_as_current_rule": false,
+      "interpretation": "Reference methodology, not legal advice, certification, or evidence of issuer compliance. Verify applicability and the underlying text for each research run."
+    },
+    {
+      "id": "IFC-BIO-METRICS",
+      "title": "IFC Biodiversity Finance Metrics for Impact Reporting",
+      "url": "https://tnfd.global/knowledge-bank/biodiversity-finance-metrics-for-impact-reporting/",
+      "version": "October 2024 supplement",
+      "source_date": "2024-10-01",
+      "checked_on": "2026-09-24",
+      "status": "VOLUNTARY_GUIDANCE",
+      "can_apply_as_current_rule": false,
+      "interpretation": "IFC publication catalogued by TNFD; retrieve the primary metric methodology before use. Do not aggregate heterogeneous habitats into a universal score."
+    }
+  ]
+}

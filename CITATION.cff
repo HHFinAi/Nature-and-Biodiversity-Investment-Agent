@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "Please cite this software and its version; citation is not an endorsement."
+title: "Nature and Biodiversity Investment Agent"
+authors:
+  - name: HHFinAi
+version: 0.1.0
+date-released: 2026-09-24
+license: MIT
+abstract: "Connects location-specific ecosystem dependencies, measured outcomes, rights and financial transmission without inventing a universal biodiversity score or assuming tradability. Local host-driven research runtime; no trade execution or independent audit certification."
+keywords:
+  - sustainable-finance
+  - biodiversity
+  - nature-finance
+  - tnfd
+  - natural-capital
+  - impact-investing
+  - project-finance
+  - buy-side
+  - ai-agents
+  - agent-skills
+  - investment-research
+  - audit-trail
+  - evidence-based
+  - python
