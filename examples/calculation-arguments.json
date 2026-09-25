@@ -1,0 +1,9 @@
+{
+  "revenue": 100000000,
+  "exposed_share": 0.3,
+  "disruption_share": 0.2,
+  "contribution_margin": 0.4,
+  "mitigation_share": 0.25,
+  "adaptation_opex": 500000,
+  "adaptation_capex": 2000000
+}

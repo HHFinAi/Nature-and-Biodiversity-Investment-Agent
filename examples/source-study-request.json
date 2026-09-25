@@ -1,0 +1,59 @@
+{
+  "schema_version": "1.0",
+  "mode": "source-study",
+  "as_of": "2026-09-24",
+  "route": "public-credit",
+  "subject": {
+    "id": "IBRD",
+    "name": "International Bank for Reconstruction and Development"
+  },
+  "mandate": {
+    "objective": "Bounded historical announcement study; identify missing diligence, not an investment recommendation.",
+    "base_currency": "USD",
+    "horizon": "Historical event viewed as of 2026-09-24",
+    "constraints": "No trading, no complete due-diligence assertion.",
+    "risk_budget": "None: source study only",
+    "jurisdiction": "Applicable jurisdictions require qualified review; not determined by this announcement."
+  },
+  "freshness_policy": {
+    "market_max_age_days": 1,
+    "standard_review_max_age_days": 90
+  },
+  "instruments": [
+    {
+      "id": "US45906M3A71",
+      "name": "IBRD Wildlife Conservation Bond",
+      "asset_type": "bond",
+      "currency": "USD",
+      "market_access": "public",
+      "label": "outcome-linked"
+    }
+  ],
+  "evidence": [
+    {
+      "id": "SOURCE-1",
+      "title": "IBRD Wildlife Conservation Bond announcement",
+      "publisher": "World Bank / IBRD",
+      "uri": "https://www.worldbank.org/en/news/press-release/2022/03/23/wildlife-conservation-bond-boosts-south-africa-s-efforts-to-protect-black-rhinos-and-support-local-communities",
+      "locator": "Opening paragraphs and Summary Terms table: issuer, size and ISIN",
+      "kind": "instrument",
+      "review_status": "REVIEWED",
+      "scope": [
+        "IBRD",
+        "US45906M3A71"
+      ],
+      "observed_on": "2022-03-23",
+      "available_on": "2022-03-23",
+      "retrieved_on": "2026-09-24",
+      "metrics": [
+        {
+          "id": "announced-amount",
+          "value": 150000000,
+          "unit": "USD",
+          "period": "2022-03-23",
+          "scope": "IBRD"
+        }
+      ]
+    }
+  ]
+}

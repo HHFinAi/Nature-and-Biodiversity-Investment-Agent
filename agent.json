@@ -1,0 +1,720 @@
+{
+  "schema_version": "1.0",
+  "name": "nature-biodiversity-investment-agent",
+  "title": "Nature and Biodiversity Investment Agent",
+  "version": "0.1.0",
+  "owner": "HHFinAi",
+  "default_route": "listed-equity",
+  "routes": {
+    "listed-equity": {
+      "title": "Listed Equity",
+      "nodes": [
+        {
+          "id": "mandate",
+          "depends_on": []
+        },
+        {
+          "id": "evidence",
+          "depends_on": [
+            "mandate"
+          ]
+        },
+        {
+          "id": "locate",
+          "depends_on": [
+            "evidence"
+          ]
+        },
+        {
+          "id": "dependencies",
+          "depends_on": [
+            "locate"
+          ]
+        },
+        {
+          "id": "impacts",
+          "depends_on": [
+            "dependencies"
+          ]
+        },
+        {
+          "id": "rights",
+          "depends_on": [
+            "impacts"
+          ]
+        },
+        {
+          "id": "additionality",
+          "depends_on": [
+            "rights"
+          ]
+        },
+        {
+          "id": "finance",
+          "depends_on": [
+            "additionality"
+          ]
+        },
+        {
+          "id": "market",
+          "depends_on": [
+            "finance"
+          ]
+        },
+        {
+          "id": "valuation",
+          "depends_on": [
+            "market"
+          ]
+        },
+        {
+          "id": "expression",
+          "depends_on": [
+            "valuation"
+          ]
+        },
+        {
+          "id": "stewardship",
+          "depends_on": [
+            "expression"
+          ]
+        },
+        {
+          "id": "challenge",
+          "depends_on": [
+            "stewardship"
+          ]
+        },
+        {
+          "id": "memo",
+          "depends_on": [
+            "challenge"
+          ]
+        }
+      ],
+      "asset_types": [
+        "equity"
+      ],
+      "primary_evidence_kinds": [
+        "issuer",
+        "instrument",
+        "official",
+        "contract",
+        "ecological"
+      ],
+      "required_label": null
+    },
+    "public-credit": {
+      "title": "Public Credit",
+      "nodes": [
+        {
+          "id": "mandate",
+          "depends_on": []
+        },
+        {
+          "id": "evidence",
+          "depends_on": [
+            "mandate"
+          ]
+        },
+        {
+          "id": "locate",
+          "depends_on": [
+            "evidence"
+          ]
+        },
+        {
+          "id": "dependencies",
+          "depends_on": [
+            "locate"
+          ]
+        },
+        {
+          "id": "impacts",
+          "depends_on": [
+            "dependencies"
+          ]
+        },
+        {
+          "id": "rights",
+          "depends_on": [
+            "impacts"
+          ]
+        },
+        {
+          "id": "additionality",
+          "depends_on": [
+            "rights"
+          ]
+        },
+        {
+          "id": "finance",
+          "depends_on": [
+            "additionality"
+          ]
+        },
+        {
+          "id": "market",
+          "depends_on": [
+            "finance"
+          ]
+        },
+        {
+          "id": "valuation",
+          "depends_on": [
+            "market"
+          ]
+        },
+        {
+          "id": "expression",
+          "depends_on": [
+            "valuation"
+          ]
+        },
+        {
+          "id": "stewardship",
+          "depends_on": [
+            "expression"
+          ]
+        },
+        {
+          "id": "challenge",
+          "depends_on": [
+            "stewardship"
+          ]
+        },
+        {
+          "id": "memo",
+          "depends_on": [
+            "challenge"
+          ]
+        }
+      ],
+      "asset_types": [
+        "bond"
+      ],
+      "primary_evidence_kinds": [
+        "issuer",
+        "instrument",
+        "official",
+        "contract",
+        "ecological"
+      ],
+      "required_label": null
+    },
+    "private-nature-project": {
+      "title": "Private Nature Project",
+      "nodes": [
+        {
+          "id": "mandate",
+          "depends_on": []
+        },
+        {
+          "id": "evidence",
+          "depends_on": [
+            "mandate"
+          ]
+        },
+        {
+          "id": "locate",
+          "depends_on": [
+            "evidence"
+          ]
+        },
+        {
+          "id": "dependencies",
+          "depends_on": [
+            "locate"
+          ]
+        },
+        {
+          "id": "impacts",
+          "depends_on": [
+            "dependencies"
+          ]
+        },
+        {
+          "id": "rights",
+          "depends_on": [
+            "impacts"
+          ]
+        },
+        {
+          "id": "additionality",
+          "depends_on": [
+            "rights"
+          ]
+        },
+        {
+          "id": "finance",
+          "depends_on": [
+            "additionality"
+          ]
+        },
+        {
+          "id": "market",
+          "depends_on": [
+            "finance"
+          ]
+        },
+        {
+          "id": "valuation",
+          "depends_on": [
+            "market"
+          ]
+        },
+        {
+          "id": "expression",
+          "depends_on": [
+            "valuation"
+          ]
+        },
+        {
+          "id": "stewardship",
+          "depends_on": [
+            "expression"
+          ]
+        },
+        {
+          "id": "challenge",
+          "depends_on": [
+            "stewardship"
+          ]
+        },
+        {
+          "id": "memo",
+          "depends_on": [
+            "challenge"
+          ]
+        }
+      ],
+      "asset_types": [
+        "private_project"
+      ],
+      "primary_evidence_kinds": [
+        "issuer",
+        "instrument",
+        "official",
+        "contract",
+        "ecological"
+      ],
+      "required_label": null
+    },
+    "portfolio-screen": {
+      "title": "Portfolio Screen",
+      "nodes": [
+        {
+          "id": "mandate",
+          "depends_on": []
+        },
+        {
+          "id": "evidence",
+          "depends_on": [
+            "mandate"
+          ]
+        },
+        {
+          "id": "locate",
+          "depends_on": [
+            "evidence"
+          ]
+        },
+        {
+          "id": "dependencies",
+          "depends_on": [
+            "locate"
+          ]
+        },
+        {
+          "id": "impacts",
+          "depends_on": [
+            "dependencies"
+          ]
+        },
+        {
+          "id": "rights",
+          "depends_on": [
+            "impacts"
+          ]
+        },
+        {
+          "id": "additionality",
+          "depends_on": [
+            "rights"
+          ]
+        },
+        {
+          "id": "finance",
+          "depends_on": [
+            "additionality"
+          ]
+        },
+        {
+          "id": "market",
+          "depends_on": [
+            "finance"
+          ]
+        },
+        {
+          "id": "valuation",
+          "depends_on": [
+            "market"
+          ]
+        },
+        {
+          "id": "expression",
+          "depends_on": [
+            "valuation"
+          ]
+        },
+        {
+          "id": "stewardship",
+          "depends_on": [
+            "expression"
+          ]
+        },
+        {
+          "id": "challenge",
+          "depends_on": [
+            "stewardship"
+          ]
+        },
+        {
+          "id": "memo",
+          "depends_on": [
+            "challenge"
+          ]
+        }
+      ],
+      "asset_types": [
+        "equity",
+        "bond",
+        "portfolio"
+      ],
+      "primary_evidence_kinds": [
+        "issuer",
+        "instrument",
+        "official",
+        "contract",
+        "ecological"
+      ],
+      "required_label": null
+    },
+    "nature-credit": {
+      "title": "Nature Credit",
+      "nodes": [
+        {
+          "id": "mandate",
+          "depends_on": []
+        },
+        {
+          "id": "evidence",
+          "depends_on": [
+            "mandate"
+          ]
+        },
+        {
+          "id": "locate",
+          "depends_on": [
+            "evidence"
+          ]
+        },
+        {
+          "id": "dependencies",
+          "depends_on": [
+            "locate"
+          ]
+        },
+        {
+          "id": "impacts",
+          "depends_on": [
+            "dependencies"
+          ]
+        },
+        {
+          "id": "rights",
+          "depends_on": [
+            "impacts"
+          ]
+        },
+        {
+          "id": "additionality",
+          "depends_on": [
+            "rights"
+          ]
+        },
+        {
+          "id": "finance",
+          "depends_on": [
+            "additionality"
+          ]
+        },
+        {
+          "id": "market",
+          "depends_on": [
+            "finance"
+          ]
+        },
+        {
+          "id": "valuation",
+          "depends_on": [
+            "market"
+          ]
+        },
+        {
+          "id": "expression",
+          "depends_on": [
+            "valuation"
+          ]
+        },
+        {
+          "id": "stewardship",
+          "depends_on": [
+            "expression"
+          ]
+        },
+        {
+          "id": "challenge",
+          "depends_on": [
+            "stewardship"
+          ]
+        },
+        {
+          "id": "memo",
+          "depends_on": [
+            "challenge"
+          ]
+        }
+      ],
+      "asset_types": [
+        "biodiversity_credit",
+        "private_project"
+      ],
+      "primary_evidence_kinds": [
+        "issuer",
+        "instrument",
+        "official",
+        "contract",
+        "ecological"
+      ],
+      "required_label": null
+    }
+  },
+  "stages": {
+    "mandate": {
+      "id": "mandate",
+      "title": "Mandate and investable question",
+      "required_sections": [
+        "decision_question",
+        "instrument_boundary",
+        "mandate_constraints"
+      ],
+      "standard_ids": [],
+      "prompt_path": "prompts/stages/mandate.md",
+      "requires_calculation": false,
+      "investment_gate": false
+    },
+    "evidence": {
+      "id": "evidence",
+      "title": "Evidence intake and reconciliation",
+      "required_sections": [
+        "source_register_review",
+        "boundary_reconciliation",
+        "material_gaps"
+      ],
+      "standard_ids": [],
+      "prompt_path": "prompts/stages/evidence.md",
+      "requires_calculation": false,
+      "investment_gate": false
+    },
+    "locate": {
+      "id": "locate",
+      "title": "Locate assets and nature interfaces",
+      "required_sections": [
+        "location_inventory",
+        "dataset_precision",
+        "coverage_and_gaps"
+      ],
+      "standard_ids": [
+        "TNFD-LEAP",
+        "TNFD-FI"
+      ],
+      "prompt_path": "prompts/stages/locate.md",
+      "requires_calculation": false,
+      "investment_gate": false
+    },
+    "dependencies": {
+      "id": "dependencies",
+      "title": "Dependencies and financial transmission",
+      "required_sections": [
+        "ecosystem_services",
+        "operational_dependencies",
+        "financial_channels"
+      ],
+      "standard_ids": [
+        "TNFD-LEAP"
+      ],
+      "prompt_path": "prompts/stages/dependencies.md",
+      "requires_calculation": false,
+      "investment_gate": false
+    },
+    "impacts": {
+      "id": "impacts",
+      "title": "Negative impacts and measurable ecological outcomes",
+      "required_sections": [
+        "pressures_and_state",
+        "baseline_metrics",
+        "outcome_evidence"
+      ],
+      "standard_ids": [
+        "TNFD-LEAP",
+        "IFC-BIO-METRICS"
+      ],
+      "prompt_path": "prompts/stages/impacts.md",
+      "requires_calculation": false,
+      "investment_gate": false
+    },
+    "rights": {
+      "id": "rights",
+      "title": "Rights, safeguards and benefit sharing",
+      "required_sections": [
+        "tenure_and_consent",
+        "community_safeguards",
+        "remediation_and_benefits"
+      ],
+      "standard_ids": [
+        "IFC-BIO"
+      ],
+      "prompt_path": "prompts/stages/rights.md",
+      "requires_calculation": false,
+      "investment_gate": false
+    },
+    "additionality": {
+      "id": "additionality",
+      "title": "Counterfactual, additionality and durability",
+      "required_sections": [
+        "counterfactual",
+        "leakage_and_durability",
+        "investor_contribution"
+      ],
+      "standard_ids": [
+        "IFC-BIO",
+        "IFC-BIO-METRICS"
+      ],
+      "prompt_path": "prompts/stages/additionality.md",
+      "requires_calculation": false,
+      "investment_gate": false
+    },
+    "finance": {
+      "id": "finance",
+      "title": "Nature business model and payment structure",
+      "required_sections": [
+        "revenue_contracts",
+        "costs_and_delivery",
+        "investability_boundary"
+      ],
+      "standard_ids": [
+        "IFC-BIO"
+      ],
+      "prompt_path": "prompts/stages/finance.md",
+      "requires_calculation": false,
+      "investment_gate": false
+    },
+    "market": {
+      "id": "market",
+      "title": "Instrument, liquidity and market evidence",
+      "required_sections": [
+        "market_snapshot",
+        "comparables",
+        "execution_constraints"
+      ],
+      "standard_ids": [],
+      "prompt_path": "prompts/stages/market.md",
+      "requires_calculation": false,
+      "investment_gate": false
+    },
+    "valuation": {
+      "id": "valuation",
+      "title": "Financial valuation and scenario underwriting",
+      "required_sections": [
+        "base_case",
+        "downside_and_sensitivities",
+        "priced_in_vs_variant"
+      ],
+      "standard_ids": [],
+      "prompt_path": "prompts/stages/valuation.md",
+      "requires_calculation": true,
+      "investment_gate": false
+    },
+    "expression": {
+      "id": "expression",
+      "title": "Buy-side investment expression and eligibility",
+      "required_sections": [
+        "investment_case",
+        "implementation_conditions",
+        "risk_and_falsifiers"
+      ],
+      "standard_ids": [],
+      "prompt_path": "prompts/stages/expression.md",
+      "requires_calculation": false,
+      "investment_gate": true
+    },
+    "stewardship": {
+      "id": "stewardship",
+      "title": "Stewardship and thesis monitoring",
+      "required_sections": [
+        "engagement_objectives",
+        "monitoring_triggers",
+        "escalation"
+      ],
+      "standard_ids": [],
+      "prompt_path": "prompts/stages/stewardship.md",
+      "requires_calculation": false,
+      "investment_gate": false
+    },
+    "challenge": {
+      "id": "challenge",
+      "title": "Independent challenge and release control",
+      "required_sections": [
+        "counter_case",
+        "control_review",
+        "unresolved_issues"
+      ],
+      "standard_ids": [],
+      "prompt_path": "prompts/stages/challenge.md",
+      "requires_calculation": false,
+      "investment_gate": false
+    },
+    "memo": {
+      "id": "memo",
+      "title": "Investment committee research packet",
+      "required_sections": [
+        "financial_conclusion",
+        "sustainability_conclusion",
+        "decision_conditions"
+      ],
+      "standard_ids": [],
+      "prompt_path": "prompts/stages/memo.md",
+      "requires_calculation": false,
+      "investment_gate": false
+    }
+  },
+  "demo_operation": "nature_cashflow_stress",
+  "demo_arguments": {
+    "revenue": 100000000,
+    "exposed_share": 0.3,
+    "disruption_share": 0.2,
+    "contribution_margin": 0.4,
+    "mitigation_share": 0.25,
+    "adaptation_opex": 500000,
+    "adaptation_capex": 2000000
+  },
+  "demo_assessment": "Fictional water-dependent business: incomplete site coverage is unknown exposure, not zero risk. Ecological benefits and investor cash flows require different evidence.",
+  "mode": "host-driven-research",
+  "capabilities": {
+    "embedded_llm": false,
+    "live_data": false,
+    "trade_execution": false,
+    "scheduler": false
+  }
+}

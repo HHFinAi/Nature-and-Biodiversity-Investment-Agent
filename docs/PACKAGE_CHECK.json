@@ -1,0 +1,8 @@
+{
+  "agent": "nature-biodiversity-investment-agent",
+  "routes": 5,
+  "stages": 14,
+  "operations": 9,
+  "checks": "PASS",
+  "remote_urls_checked": false
+}

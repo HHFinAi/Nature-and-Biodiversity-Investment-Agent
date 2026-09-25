@@ -1,0 +1,13 @@
+{
+  "fact": "IBRD announced a USD 150 million Wildlife Conservation Bond in March 2022, supporting rhino conservation in South Africa. The obligor is IBRD, not the South African sovereign.",
+  "limitations": [
+    "Historical issuance disclosure is not a current price or independent evidence of realized biodiversity outcomes.",
+    "Project country, conservation beneficiary and bond obligor must remain distinct."
+  ],
+  "gaps": [
+    "Executed offering terms and reconciliation of the specific outcome-linked structure with generic issuer disclaimers.",
+    "Latest independently verified ecological outcomes, measurement protocol and counterfactual/rights evidence.",
+    "Current instrument quote, remaining cash flows, liquidity and valuation."
+  ],
+  "conclusion": "NEEDS_DATA: bounded historical source extraction only; contractual, outcome and current investment evidence is incomplete."
+}
