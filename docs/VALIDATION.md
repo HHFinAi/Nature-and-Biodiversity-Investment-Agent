@@ -2,6 +2,8 @@
 
 **Build:** v0.1.0 · **Date:** September 24, 2026 · **Local environment:** Python 3.13.5 on Linux.
 
+**Historical validation record:** results and omissions below describe the September 24, 2026 build. This source repository is now public. Check [GitHub Actions](https://github.com/HHFinAi/Nature-and-Biodiversity-Investment-Agent/actions) for subsequent runs; publication alone does not establish that CI passed or that research is complete.
+
 | Check actually performed | Result |
 |---|---|
 | Local unittest suite | **108 tests passed; 0 failures; 0 errors** |
@@ -15,8 +17,8 @@
 
 Read [the actual test log](TEST_LOG.txt), [machine-readable record](VALIDATION.json) and [control boundaries](INSTITUTIONAL_QUALITY.md). The suite tests adverse inputs, source-unit/value mismatch, stale/mismatched quotes, invalid references, calculation recomputation, workflow ordering, revisions, review invalidation, local hashes and prohibited approvals. Shared tests are rerun in all three specialist packages; summing them counts executions, not unique independent validations.
 
-## Not performed
-No remote GitHub Actions run; no Windows/macOS run; no local Python 3.10/3.12 run; no host-specific LLM installation/integration; no current market feed validation; no completed live investment case; no backtest or alpha measurement; no independent legal, ecological, causal or regulatory validation; no penetration test; no authenticated reviewer or independent institutional audit. The CI matrix is prepared but not executed on GitHub. The declared Python 3.10+ target is not a claim that every supported version/platform has been tested here.
+## Not performed in that build
+No remote GitHub Actions run; no Windows/macOS run; no local Python 3.10/3.12 run; no host-specific LLM installation/integration; no current market feed validation; no completed live investment case; no backtest or alpha measurement; no independent legal, ecological, causal or regulatory validation; no penetration test; no authenticated reviewer or independent institutional audit. The CI matrix had been prepared but was not executed on GitHub as part of that build. The declared Python 3.10+ target is not a claim that every supported version/platform has been tested here.
 
 Historical source-study facts were read from primary/transaction-participant announcement pages and bounded to those statements. Original documents, contracts and full market data were not ingested into a completed live analysis. The study intentionally stops with material gaps rather than generating an apparent trade recommendation.
 
