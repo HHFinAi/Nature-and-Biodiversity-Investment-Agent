@@ -6,6 +6,8 @@
 
 Connects location-specific ecosystem dependencies, measured outcomes, rights and financial transmission without inventing a universal biodiversity score or assuming tradability. Built by **HHFinAi** for investment analysts, fixed-income/equity specialists, portfolio managers and investment committees.
 
+Start with the [integrated portfolio research handoff](examples/integrated-portfolio/README.md): a public-data model portfolio connects carbon attribution to named water/location questions and financial evidence gates. Site dependencies and issuer financial effects remain distinct; proposed questions do not establish measured nature outcomes.
+
 **Institutional quality describes the designed process controls—not independent audit certification, production readiness, client adoption or guaranteed investment accuracy.** “Tradable” requires a verified investment instrument and appropriate market, legal and portfolio evidence; many private projects and programmes are not liquid or investable. “Auditable” means inspectable local records, not authenticated or tamper-proof recordkeeping. No trade execution is provided.
 
 Version **0.1.0** · **14 specialist stages** · **5 routes** · Python **3.10+ target** · **Human review**
