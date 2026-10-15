@@ -1,5 +1,9 @@
 # Changelog
 
+## 2026-10-16 — AI infrastructure research handoff
+
+- Added an evidence-gated analytical handoff to the original AI infrastructure case and updated research navigation. No runtime or human-approval control changed.
+
 ## 2026-10-08 — Research completion and reproducibility
 
 - Linked the integrated public-data portfolio case and its nature/location research handoff.
