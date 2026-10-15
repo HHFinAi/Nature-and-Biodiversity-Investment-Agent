@@ -14,6 +14,8 @@ Version **0.1.0** · **14 specialist stages** · **5 routes** · Python **3.10+ 
 
 [Workflow](WORKFLOW.md) · [Prompts and skills](PROMPTS.md) · [Evidence trail](docs/AUDIT.md) · [Institutional-quality controls](docs/INSTITUTIONAL_QUALITY.md) · [Validation](docs/VALIDATION.md) · [FAQ](docs/FAQ.md)
 
+The [AI infrastructure handoff](examples/ai-infrastructure/README.md), prepared 16 October 2026, defines location-level water and land evidence gates linked to a financial model. Site dependencies, measured outcomes and project costs remain distinct.
+
 ## What does this buy-side agent do?
 Nature-related investment risk, biodiversity outcomes and project underwriting. The local engine freezes the research request, prompts and methodology register; emits host work packets; validates structured evidence, units and calculations; enforces stage dependencies; archives superseded findings; invalidates downstream decisions; and records explicit human research review. It exports a committee packet, claim ledger, evidence ledger and complete JSON lineage.
 
