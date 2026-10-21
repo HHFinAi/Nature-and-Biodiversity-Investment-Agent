@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="720pt" height="396pt" viewBox="0 0 720 396" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.10.8, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 396 
+L 720 396 
+L 720 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 49.79 322.76 
+L 708.12 322.76 
+L 708.12 27.96 
+L 49.79 27.96 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 79.714091 222.585243 
+L 132.135856 222.585243 
+L 132.135856 182.51534 
+L 79.714091 182.51534 
+z
+" clip-path="url(#pb5df872a0f)" style="fill: #17365d"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 298.138112 222.585243 
+L 350.559877 222.585243 
+L 350.559877 202.550291 
+L 298.138112 202.550291 
+z
+" clip-path="url(#pb5df872a0f)" style="fill: #17365d"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 516.562133 222.585243 
+L 568.983898 222.585243 
+L 568.983898 153.893981 
+L 516.562133 153.893981 
+z
+" clip-path="url(#pb5df872a0f)" style="fill: #17365d"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 134.320096 222.585243 
+L 186.741861 222.585243 
+L 186.741861 156.756117 
+L 134.320096 156.756117 
+z
+" clip-path="url(#pb5df872a0f)" style="fill: #267d8d"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 352.744117 222.585243 
+L 405.165883 222.585243 
+L 405.165883 182.51534 
+L 352.744117 182.51534 
+z
+" clip-path="url(#pb5df872a0f)" style="fill: #267d8d"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 571.168139 222.585243 
+L 623.589904 222.585243 
+L 623.589904 82.340583 
+L 571.168139 82.340583 
+z
+" clip-path="url(#pb5df872a0f)" style="fill: #267d8d"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 188.926102 222.585243 
+L 241.347867 222.585243 
+L 241.347867 247.765313 
+L 188.926102 247.765313 
+z
+" clip-path="url(#pb5df872a0f)" style="fill: #be6d20"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 407.350123 222.585243 
+L 459.771888 222.585243 
+L 459.771888 242.343569 
+L 407.350123 242.343569 
+z
+" clip-path="url(#pb5df872a0f)" style="fill: #be6d20"/>
+   </g>
+   <g id="patch_11">
+    <path d="M 625.774144 222.585243 
+L 678.195909 222.585243 
+L 678.195909 290.796296 
+L 625.774144 290.796296 
+z
+" clip-path="url(#pb5df872a0f)" style="fill: #be6d20"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_1">
+      <defs>
+       <path id="me5786a6983" d="M 0 0 
+L 0 3.5 
+" style="stroke: #000000; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#me5786a6983" x="160.530979" y="322.76" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_1">
+      <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: middle" x="160.530979" y="338.118281" transform="rotate(-0 160.530979 338.118281)">Total grains</text>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_2">
+      <g>
+       <use xlink:href="#me5786a6983" x="378.955" y="322.76" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_2">
+      <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: middle" x="378.955" y="338.118281" transform="rotate(-0 378.955 338.118281)">Soy</text>
+     </g>
+    </g>
+    <g id="xtick_3">
+     <g id="line2d_3">
+      <g>
+       <use xlink:href="#me5786a6983" x="597.379021" y="322.76" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_3">
+      <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: middle" x="597.379021" y="338.118281" transform="rotate(-0 597.379021 338.118281)">Corn</text>
+     </g>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="line2d_4">
+      <defs>
+       <path id="ma6b77ba3cb" d="M 0 0 
+L -3.5 0 
+" style="stroke: #000000; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#ma6b77ba3cb" x="49.79" y="279.827961" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_4">
+      <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: end" x="42.79" y="284.007102" transform="rotate(-0 42.79 284.007102)">−2</text>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="line2d_5">
+      <g>
+       <use xlink:href="#ma6b77ba3cb" x="49.79" y="222.585243" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_5">
+      <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: end" x="42.79" y="226.764383" transform="rotate(-0 42.79 226.764383)">0</text>
+     </g>
+    </g>
+    <g id="ytick_3">
+     <g id="line2d_6">
+      <g>
+       <use xlink:href="#ma6b77ba3cb" x="49.79" y="165.342524" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_6">
+      <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: end" x="42.79" y="169.521665" transform="rotate(-0 42.79 169.521665)">2</text>
+     </g>
+    </g>
+    <g id="ytick_4">
+     <g id="line2d_7">
+      <g>
+       <use xlink:href="#ma6b77ba3cb" x="49.79" y="108.099806" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_7">
+      <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: end" x="42.79" y="112.278946" transform="rotate(-0 42.79 112.278946)">4</text>
+     </g>
+    </g>
+    <g id="ytick_5">
+     <g id="line2d_8">
+      <g>
+       <use xlink:href="#ma6b77ba3cb" x="49.79" y="50.857087" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_8">
+      <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: end" x="42.79" y="55.036228" transform="rotate(-0 42.79 55.036228)">6</text>
+     </g>
+    </g>
+    <g id="text_9">
+     <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: middle" x="20.285938" y="175.36" transform="rotate(-90 20.285938 175.36)">Year-on-year change (%)</text>
+    </g>
+   </g>
+   <g id="line2d_9">
+    <path d="M 49.79 222.585243 
+L 708.12 222.585243 
+" clip-path="url(#pb5df872a0f)" style="fill: none; stroke: #888888; stroke-width: 0.7; stroke-linecap: square"/>
+   </g>
+   <g id="patch_12">
+    <path d="M 49.79 322.76 
+L 49.79 27.96 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_13">
+    <path d="M 49.79 322.76 
+L 708.12 322.76 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_10">
+    <text style="font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: middle" x="105.924973" y="177.643621" transform="rotate(-0 105.924973 177.643621)">1.40</text>
+   </g>
+   <g id="text_11">
+    <text style="font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: middle" x="324.348995" y="197.678573" transform="rotate(-0 324.348995 197.678573)">0.70</text>
+   </g>
+   <g id="text_12">
+    <text style="font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: middle" x="542.773016" y="149.022262" transform="rotate(-0 542.773016 149.022262)">2.40</text>
+   </g>
+   <g id="text_13">
+    <text style="font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: middle" x="160.530979" y="151.884398" transform="rotate(-0 160.530979 151.884398)">2.30</text>
+   </g>
+   <g id="text_14">
+    <text style="font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: middle" x="378.955" y="177.643621" transform="rotate(-0 378.955 177.643621)">1.40</text>
+   </g>
+   <g id="text_15">
+    <text style="font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: middle" x="597.379021" y="77.468864" transform="rotate(-0 597.379021 77.468864)">4.90</text>
+   </g>
+   <g id="text_16">
+    <text style="font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: middle" x="215.136984" y="257.603907" transform="rotate(-0 215.136984 257.603907)">-0.88</text>
+   </g>
+   <g id="text_17">
+    <text style="font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: middle" x="433.561005" y="252.182162" transform="rotate(-0 433.561005 252.182162)">-0.69</text>
+   </g>
+   <g id="text_18">
+    <text style="font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: middle" x="651.985027" y="300.634889" transform="rotate(-0 651.985027 300.634889)">-2.38</text>
+   </g>
+   <g id="text_19">
+    <text style="font-size: 13.2px; font-family: 'DejaVu Sans'; text-anchor: middle" x="378.955" y="21.96" transform="rotate(-0 378.955 21.96)">Brazil: the first 2026/27 survey is area-led</text>
+   </g>
+   <g id="legend_1">
+    <g id="patch_14">
+     <path d="M 59.69 46.218281 
+L 81.69 46.218281 
+L 81.69 38.518281 
+L 59.69 38.518281 
+z
+" style="fill: #17365d"/>
+    </g>
+    <g id="text_20">
+     <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: start" x="90.49" y="46.218281" transform="rotate(-0 90.49 46.218281)">Output</text>
+    </g>
+    <g id="patch_15">
+     <path d="M 150.699531 46.218281 
+L 172.699531 46.218281 
+L 172.699531 38.518281 
+L 150.699531 38.518281 
+z
+" style="fill: #267d8d"/>
+    </g>
+    <g id="text_21">
+     <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: start" x="181.499531" y="46.218281" transform="rotate(-0 181.499531 46.218281)">Crop area</text>
+    </g>
+    <g id="patch_16">
+     <path d="M 257.189844 46.218281 
+L 279.189844 46.218281 
+L 279.189844 38.518281 
+L 257.189844 38.518281 
+z
+" style="fill: #be6d20"/>
+    </g>
+    <g id="text_22">
+     <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: start" x="287.989844" y="46.218281" transform="rotate(-0 287.989844 46.218281)">Implied yield</text>
+    </g>
+   </g>
+  </g>
+  <g id="text_23">
+   <text style="font-size: 9px; font-family: 'DejaVu Sans'; fill: #526170" transform="translate(57.6 376.021969)">Source: CONAB, 15 Oct 2026. Yield = (1 + output growth) / (1 + area growth) − 1.</text>
+   <text style="font-size: 9px; font-family: 'DejaVu Sans'; fill: #526170" transform="translate(57.6 386.1)">Rounded agency forecasts, not harvest outcomes. Crop hectares are not unique physical land.</text>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pb5df872a0f">
+   <rect x="49.79" y="27.96" width="658.33" height="294.8"/>
+  </clipPath>
+ </defs>
+</svg>

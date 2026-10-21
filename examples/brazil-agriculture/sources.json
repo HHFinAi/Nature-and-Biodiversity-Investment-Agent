@@ -1,0 +1,80 @@
+{
+  "evidence_cutoff": "2026-10-21",
+  "extraction": "Manual bounded factual extracts checked by assistant; original documents not redistributed.",
+  "sources": [
+    {
+      "id": "CONAB_OCT26",
+      "publisher": "CONAB",
+      "url": "https://www.gov.br/conab/pt-br/assuntos/noticias/primeiro-levantamento-da-safra-de-graos-2026-27-estima-producao-acima-de-367-milhoes-de-toneladas",
+      "publication_date": "2026-10-15",
+      "observation_period": "2026/27 first crop survey",
+      "retrieved_on": "2026-10-21",
+      "locator": "Opening paragraphs; soybeans; corn",
+      "review_status": "ASSISTANT_CHECKED_PRIMARY_SOURCE",
+      "raw_source_sha256": null,
+      "metrics": {
+        "grains_production": {
+          "value": 367.1,
+          "unit": "million_tonnes",
+          "kind": "AGENCY_FORECAST"
+        },
+        "grains_area": {
+          "value": 85.4,
+          "unit": "million_crop_hectares",
+          "kind": "AGENCY_FORECAST"
+        },
+        "grains_output_growth": {
+          "value": 1.4,
+          "unit": "percent_yoy",
+          "kind": "AGENCY_FORECAST"
+        },
+        "grains_area_growth": {
+          "value": 2.3,
+          "unit": "percent_yoy",
+          "kind": "AGENCY_FORECAST"
+        },
+        "soy_production": {
+          "value": 181.6,
+          "unit": "million_tonnes",
+          "kind": "AGENCY_FORECAST"
+        },
+        "soy_area": {
+          "value": 49.3,
+          "unit": "million_crop_hectares",
+          "kind": "AGENCY_FORECAST"
+        },
+        "soy_output_growth": {
+          "value": 0.7,
+          "unit": "percent_yoy",
+          "kind": "AGENCY_FORECAST"
+        },
+        "soy_area_growth": {
+          "value": 1.4,
+          "unit": "percent_yoy",
+          "kind": "AGENCY_FORECAST"
+        },
+        "corn_production": {
+          "value": 148,
+          "unit": "million_tonnes",
+          "kind": "AGENCY_FORECAST"
+        },
+        "corn_area": {
+          "value": 23.7,
+          "unit": "million_crop_hectares",
+          "kind": "AGENCY_FORECAST"
+        },
+        "corn_output_growth": {
+          "value": 2.4,
+          "unit": "percent_yoy",
+          "kind": "AGENCY_FORECAST"
+        },
+        "corn_area_growth": {
+          "value": 4.9,
+          "unit": "percent_yoy",
+          "kind": "AGENCY_FORECAST"
+        }
+      },
+      "notes": "Rounded source values; forecasts, not realized harvests. Area is crop area summed across harvests, not unique physical land. Yield changes derived from rounded growth rates are approximate."
+    }
+  ]
+}

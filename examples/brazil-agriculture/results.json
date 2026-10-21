@@ -1,0 +1,60 @@
+{
+  "agency_forecast_decomposition": [
+    {
+      "area_contribution_pp": 2.289883,
+      "crop": "grains",
+      "crop_area_growth_percent": 2.3,
+      "crop_area_million_hectares": 85.4,
+      "implied_tonnes_per_crop_hectare": 4.298595,
+      "output_growth_percent": 1.4,
+      "production_million_tonnes": 367.1,
+      "yield_contribution_pp": -0.889883,
+      "yield_growth_percent": -0.879765
+    },
+    {
+      "area_contribution_pp": 1.395168,
+      "crop": "soy",
+      "crop_area_growth_percent": 1.4,
+      "crop_area_million_hectares": 49.3,
+      "implied_tonnes_per_crop_hectare": 3.68357,
+      "output_growth_percent": 0.7,
+      "production_million_tonnes": 181.6,
+      "yield_contribution_pp": -0.695168,
+      "yield_growth_percent": -0.690335
+    },
+    {
+      "area_contribution_pp": 4.841611,
+      "crop": "corn",
+      "crop_area_growth_percent": 4.9,
+      "crop_area_million_hectares": 23.7,
+      "implied_tonnes_per_crop_hectare": 6.244726,
+      "output_growth_percent": 2.4,
+      "production_million_tonnes": 148,
+      "yield_contribution_pp": -2.441611,
+      "yield_growth_percent": -2.383222
+    }
+  ],
+  "farm_scenarios": [
+    {
+      "price_change_percent": 0,
+      "profit_change_percent": 16.666666666666718,
+      "profit_index": 35.000000000000014,
+      "revenue_index": 110.00000000000001
+    },
+    {
+      "price_change_percent": -5.0,
+      "profit_change_percent": -1.6666666666666163,
+      "profit_index": 29.500000000000014,
+      "revenue_index": 104.50000000000001
+    },
+    {
+      "price_change_percent": -10.0,
+      "profit_change_percent": -19.99999999999995,
+      "profit_index": 24.000000000000014,
+      "revenue_index": 99.00000000000001
+    }
+  ],
+  "fixed_output_crop_area_reduction_percent": 9.090909,
+  "prepared_on": "2026-10-21",
+  "price_change_at_unchanged_profit_percent": -4.545455
+}

@@ -1,5 +1,7 @@
 # Nature and Biodiversity Investment Agent
 
+**New research, 21 October 2026:** [Brazil agriculture — who captures productivity, and what happens to land?](examples/brazil-agriculture/README.md) An original decomposition of CONAB's first 2026/27 survey separates output, crop area and yield; a transparent farm scenario tests price/cost capture and the limits of land-sparing claims. [Chart and memo](examples/brazil-agriculture/README.md) · [Runnable results](examples/brazil-agriculture/RESULTS.md). Public evidence plus labelled scenarios; issuer and nature attribution remain `NEEDS_DATA`.
+
 [![Validate research workflow](https://github.com/HHFinAi/Nature-and-Biodiversity-Investment-Agent/actions/workflows/validate.yml/badge.svg?branch=main)](https://github.com/HHFinAi/Nature-and-Biodiversity-Investment-Agent/actions/workflows/validate.yml)
 
 **Institutional-quality buy-side research, designed to support tradable investment decisions through a traceable, auditable workflow.**

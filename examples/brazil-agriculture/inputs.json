@@ -1,0 +1,11 @@
+{
+  "prepared_on": "2026-10-21",
+  "status": "PUBLIC_EVIDENCE_WITH_LABELLED_SCENARIOS",
+  "assumptions": {
+    "illustrative_yield_improvement": 0.1,
+    "illustrative_price_change": -0.05,
+    "illustrative_per_hectare_cost_index": 70,
+    "illustrative_extra_cost_index": 5
+  },
+  "assumption_note": "Scenario revenue per crop hectare begins at 100; starting operating cost index 70 and extra cost 5 are illustrative. Not a farm forecast, land valuation or measured biodiversity outcome."
+}

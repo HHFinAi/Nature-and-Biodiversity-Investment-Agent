@@ -1,4 +1,12 @@
 {
   "version": "1",
-  "checks": []
+  "checks": [
+    {
+      "name": "brazil-agriculture",
+      "arguments": [
+        "examples/brazil-agriculture/model.py",
+        "--check"
+      ]
+    }
+  ]
 }
