@@ -22,3 +22,8 @@ Method references are not proof of subject facts or automatic legal compliance. 
 
 ## Failure and verification checks
 Return NEEDS_DATA/BLOCKED with precise missing inputs when material evidence is absent. A polished paragraph is not a substitute for evidence. Check entity, period, currency, unit, denominator, restatement, point-in-time availability and contradictory evidence. Explain the strongest plausible alternative interpretation and whether it changes the decision. Record material concerns in the issue register. Do not call the human approval action. Confidence is subjective and must state its scope, not pretend to be a calibrated probability.
+
+
+## Resilience cash-flow boundary (18 Nov 2026)
+
+Keep three independent dimensions: (1) avoided business interruption and yield loss, (2) paid/contracted solution-provider revenue and associated capex, and (3) measured biodiversity/water-quality outcomes. Require timing and independent evidence for each, plus rights constraints and rebound risk. Never ascribe a cash-value or tradable biodiversity credit to an unmeasured ecological improvement; review location/catchment overlap before summing benefits or discount-rate changes.

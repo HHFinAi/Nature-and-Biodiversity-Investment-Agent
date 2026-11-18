@@ -22,3 +22,8 @@ Method references are not proof of subject facts or automatic legal compliance. 
 
 ## Failure and verification checks
 Return NEEDS_DATA/BLOCKED with precise missing inputs when material evidence is absent. A polished paragraph is not a substitute for evidence. Check entity, period, currency, unit, denominator, restatement, point-in-time availability and contradictory evidence. Explain the strongest plausible alternative interpretation and whether it changes the decision. Record material concerns in the issue register. Do not call the human approval action. Confidence is subjective and must state its scope, not pretend to be a calibrated probability.
+
+
+## Adaptation-to-nature trade-off (18 Nov 2026)
+
+Water-saving or irrigation infrastructure can protect productive output while changing groundwater withdrawals, river flows and habitat condition. Distinguish reduced *business loss* from verified *environmental outcomes*. For each candidate adaptation, test rebound effects, cumulative catchment withdrawals, ecological flow and competing users. Keep physical climate and ecosystem loss channels under a single risk register to prevent double counting. Required: asset-specific monitoring/rights evidence or NEEDS_DATA.
