@@ -23,3 +23,8 @@ Method references are not proof of subject facts or automatic legal compliance. 
 
 ## Failure and verification checks
 Return NEEDS_DATA/BLOCKED with precise missing inputs when material evidence is absent. A polished paragraph is not a substitute for evidence. Check entity, period, currency, unit, denominator, restatement, point-in-time availability and contradictory evidence. Explain the strongest plausible alternative interpretation and whether it changes the decision. Record material concerns in the issue register. Do not call the human approval action. Confidence is subjective and must state its scope, not pretend to be a calibrated probability.
+
+
+## Water and drought resilience spatial overlay (18 Nov 2026)
+
+For adaptation exposure, require the actual watershed/catchment, water source, land tenure, withdrawal permits, water rights and ecological receiving waters before interpreting stress; treat headquarters, national rainfall and coarse grid rainfall as insufficient site evidence. Record hazard temporal resolution, forecast vintage, dataset bias and location uncertainty. Do not publish sensitive locations or infer drought exposure from an ENSO strength forecast alone. See `docs/WATER_DROUGHT_RESILIENCE.md`.

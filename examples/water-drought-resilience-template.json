@@ -1,0 +1,49 @@
+{
+  "version": "1.0",
+  "prepared_on": "2026-11-18",
+  "status": "NEEDS_DATA",
+  "site": {
+    "asset_identifier": null,
+    "issuer_or_sponsor": null,
+    "latitude": null,
+    "longitude": null,
+    "coordinate_precision_km": null,
+    "watershed_identifier": null,
+    "location_source_id": null
+  },
+  "hazards": {
+    "historical_drought_source_id": null,
+    "water_stress_source_id": null,
+    "forecast_version": null,
+    "observed_rainfall_anomaly": null,
+    "local_event_probability": null
+  },
+  "rights": {
+    "permitted_withdrawal_m3_yr": null,
+    "groundwater_rights_document_id": null,
+    "ecological_flow_requirement": null,
+    "community_consultation_record_id": null
+  },
+  "operations": {
+    "baseline_water_consumption_m3_yr": null,
+    "production_at_risk": null,
+    "alternative_supply": null,
+    "residual_risk": null
+  },
+  "finance": {
+    "adaptation_project_capex": null,
+    "annual_operating_cost": null,
+    "committed_payer": null,
+    "financing_approval_id": null,
+    "avoided_business_loss_model": null
+  },
+  "outcomes": {
+    "observed_biodiversity_improvement": null,
+    "water_quality_measurement": null,
+    "measured_from_baseline": false,
+    "tradable_nature_credit_verified": false
+  },
+  "evidence_source_ids": [],
+  "research_confidence": "UNVERIFIED",
+  "human_reviewer": null
+}

@@ -22,3 +22,8 @@ Method references are not proof of subject facts or automatic legal compliance. 
 
 ## Failure and verification checks
 Return NEEDS_DATA/BLOCKED with precise missing inputs when material evidence is absent. A polished paragraph is not a substitute for evidence. Check entity, period, currency, unit, denominator, restatement, point-in-time availability and contradictory evidence. Explain the strongest plausible alternative interpretation and whether it changes the decision. Record material concerns in the issue register. Do not call the human approval action. Confidence is subjective and must state its scope, not pretend to be a calibrated probability.
+
+
+## Adaptation funding bankability (18 Nov 2026)
+
+Map who pays for irrigation, flood defenses, resilience infrastructure or water efficiency, whether financing is committed, and whether utility tariffs, municipal budgets or private contracts support repayment. The *need* for adaptation is not contracted project revenue, and avoided operator losses are not provider sales. Test affordability, tender acceptance, sponsor credit quality, user rights and post-construction O&M obligations. See the original water/drought intake template.

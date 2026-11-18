@@ -71,3 +71,8 @@ The source code is published at [HHFinAi/Nature-and-Biodiversity-Investment-Agen
 
 ## Licence, sources and limitations
 Original code, prompts and examples: MIT, Copyright 2026 HHFinAi. See [NOTICE](NOTICE.md) for upstream lineage and third-party rights. No affiliation with or endorsement by referenced standard setters or institutions. Read [method sources](references/SOURCES.md), [data requirements](docs/DATA_SOURCES.md), [security](SECURITY.md), [FAQ](docs/FAQ.md) and the actual [validation record](docs/VALIDATION.md) before use.
+
+
+## Water and drought resilience extension (18 November 2026)
+
+The original [watershed-specific adaptation diligence note](docs/WATER_DROUGHT_RESILIENCE.md) extends the existing locate, dependencies, finance and valuation research stages. It separates business risk reduction, solution supplier income and verified nature outcomes, with groundwater/water rights, residual hazards and funding evidence gates. The [site template](examples/water-drought-resilience-template.json) remains NEEDS_DATA until actual location and source evidence exist.
